@@ -1,0 +1,191 @@
+{
+  "main": {
+    "name": "Mohamed EL Sayed",
+    "occupation": "Junior Front-end Web Developer",
+    "description": "Freelancer web developer with more than 1 year of experience with production-level projects and interacting with international clients.",
+    "image": "profile.jpeg",
+    "bio": "Resourceful and dedicated junior Front-end Web developer with excellent analytical skills and a demonstrated commitment to providing great customer service. Strong organizational abilities with proven successes managing multiple academic projects and volunteering events. Well-rounded and professional team player dedicated to continuing academic pursuits at a collegiate level.Experienced Web Developer adept in all stages of advanced web development. Knowledgeable in user interface, testing, and debugging processes. Bringing forth expertise in design, installation, testing and maintenance of web systems.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "mohamed11490a@gmail.com",
+    "address": {
+      "street": "29 Khalil El Ehayat_Kafr abdo,",
+      "city": "Alexandria",
+      "state": "Egypt",
+      "zip": "20"
+    },
+    "website": "https://github.com/mohamedelsayed0149",
+    "resumedownload": "https://drive.google.com/file/d/14Imem4Lz58H4TdPGSGNcL4lO5Zd1T7fy/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100005172515468",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/mohamed_m_el_sayed17.9.98/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mohamed-elsayed-0aa24b1b8",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/mohamedelsayed0149",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My proficiency in technologies that I used while developing production level applications",
+    "education": [
+      {
+        "school": "Faculty of Science",
+        "degree": "Bachelor's Degree in Computer Science",
+        "graduated": "June 2021",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "ITI : information technology institute",
+        "degree": "Advanced Front end Web Track",
+        "graduated": "March 2020",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelancer",
+        "title": "E-commerce Website",
+        "years": "07/2020 - 09/2020",
+        "description": "an e-commerce website with full responsive features designed in animated style."
+      },
+      {
+        "company": "Graduation Project",
+        "title": "E-learning App",
+        "years": "09/2020 - 03/2021",
+        "description": "an academic e-learning application for any college system."
+      },
+      {
+        "company": "Social Media",
+        "title": "WhatsApp Clone",
+        "years": "12/2020 - 03/2021",
+        "description": "a group caht application for communication with all features as whatsapp."
+      },
+      {
+        "company": "Marketing",
+        "title": "Price Tracker",
+        "years": "1/2021 - 02/2021",
+        "description": "an application with search mechanism to determine the growth of all encrupted bills."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "65%"
+      },
+      {
+        "name": "React",
+        "level": "78%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "E-commerce Website",
+        "category": "an e-commerce website with full responsive features designed in animated style.",
+        "image": "e-commerce.png",
+        "url": "https://github.com/mohamedelsayed0149/E-Commerce-Website"
+      },
+      {
+        "title": "E-learning Application",
+        "category": "an academic e-learning application as udacity for any college system.",
+        "image": "e-learning.png",
+        "url": "https://github.com/mohamedelsayed0149/Login-Form-React"
+      },
+      {
+        "title": "Microsoft Teams",
+        "category": "an microsoft-teams application providing the students to communicate with thier proffessors in college.",
+        "image": "teams.png",
+        "url": "https://github.com/mohamedelsayed0149/E-Learning-App"
+        
+      },
+      {
+        "title": "ERA Company",
+        "category": "a blog website for my training in this company",
+        "image": "mel.png",
+        "url": "https://github.com/mohamedelsayed0149/ERA-Company"
+        
+      },
+      {
+        "title": "To-Do Application",
+        "category": "an to-do application providing the user to add many items to remeber them",
+        "image": "crud.png",
+        "url": "https://github.com/mohamedelsayed0149"
+      },
+      {
+        "title": "Navigation App",
+        "category": "an navigation application providing the customers to browse data of this company ",
+        "image": "navigation.png",
+        "url": "https://github.com/mohamedelsayed0149/Nav-Bar-React"
+      },
+      {
+        "title": "Facebook Clone",
+        "category": "Cloned Facebook website in 3 day using React,Firebase.",
+        "image": "facebook.png",
+        "url": "https://github.com/mohamedelsayed0149"
+      },
+      {
+        "title": "Price-Tracker App",
+        "category": "an application with search mechanism to determine the growth of all encrupted bills.",
+        "image": "price.png",
+        "url": "https://github.com/mohamedelsayed0149/Price-Tracker"
+      },
+      {
+        "title": "WhatsApp Clone",
+        "category": "Cloned Facebook website in 2 days using React,React-chat-engine.",
+        "image": "whatsapp.png",
+        "url": "https://github.com/mohamedelsayed0149/WhatsApp-Clone"
+      },
+      {
+        "title": "twitter Clone",
+        "category": "Cloned twitter website in 1 day using React,React-icons.",
+        "image": "twitter.png",
+        "url": "https://github.com/mohamedelsayed0149/Twitter-Clone"
+      },
+      {
+        "title": "Services",
+        "category": "an services application with full responsive features providing many services",
+        "image": "epic.png",
+        "url": "https://github.com/mohamedelsayed0149/Nav-Bar-React"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Mohamed has been a very hard working and dependable consultant. He understands the business requirements and goes extra mile to deliver it. Highly professional and great value add to any team.",
+        "user": "Dr: Shaimaa / a proffesser in computer science"
+      },
+      {
+        "text": "I had worked with Mohamed  for more than 1 year, I was senior to him. I had the pleasure of working with him. His dedication toward his work was outstanding and he always had positive attitude toward new learning. He is dedicated, self-motivated, trustworthy, independent and very capable. Nitish would be an asset to any Company.",
+        "user": "Eng: Ezz el din / A Full-Stack Developer"
+      }
+    ]
+  }
+}
